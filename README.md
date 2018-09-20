@@ -1,4 +1,4 @@
-# Data Scientist Roadmap
+﻿# Data Scientist Roadmap
 Below you can find a chart demonstrating the paths that you can take and the milestones that you would want to achieve in order to become a data scientist. We spoke to senior data scientists and data science managers from various top tech companies in the Silicon Valley, and consolidated learnings from these conversations and data science Meetups in the Bay Area. We hope this can serve as a guide to everyone interested in breaking into data science, especially people who do not live in close proximity to any tech hubs and don’t have a strong personal network in data engineering.
 
 We are continuing to add recommended resources, example practice projects and additional tips to expand the roadmap. Contributions are welcome and highly appreciated.
@@ -8,7 +8,7 @@ Depending on your background, you may already possess certain skills on the road
 
 
 ## Disclaimer
-The purpose of this roadmap is to give you an overview of the core skills needed in data science. These are views help by individuals we have spoken to and do not represent any companies’ opinion. Data science roles vary from one company to another, and from one role to another. If you are interested in a specific data engineering role, please invest time to research on the specific requirements and double down efforts on the relevant branches on the chart. If anything is missing, send a PR to update the chart. If you found any insights that helped you in your journey, the community will greatly benefit from your contribution.
+The purpose of this roadmap is to give you an overview of the core skills needed in data science. These are views held by individuals we have spoken to and do not represent any companies’ opinions. Data science roles vary from one company to another, and from one role to another. If you are interested in a specific data engineering role, please invest time to research on the specific requirements and double down efforts on the relevant branches on the chart. If anything is missing, send a PR to update the chart. If you found any insights that helped you in your journey, the community will greatly benefit from your contribution.
 
 ## Roadmap
 
